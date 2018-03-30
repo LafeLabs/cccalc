@@ -16,6 +16,17 @@ EVERYTHING IS PHYSICAL
     LOOK TO THE INSECTS
     LANGUAGE IS HOW THE MIND PARSES REALITY
 
+This code in editable form is at the following git repository:
+https://github.com/LafeLabs/cccalc
+
+The raw html code is at this address:
+
+https://raw.githubusercontent.com/LafeLabs/cccalc/master/html/index.txt
+
+A live copy of this index.html file is on the World Wide Web at 
+
+http:www.lafelabs.org/cccalc/
+
 -->
 
 <script id = "topfunctions">
